@@ -1,0 +1,1 @@
+{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hdbInactiveFiles\":{\"inactiveFileList\":[\"/Test_Practise/db/src/MARA.hdbsynonym\",\"/Test_Practise/db/src/.hdinamespace\"]}}"]},"mixinTypes":[]}
